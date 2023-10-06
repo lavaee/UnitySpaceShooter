@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031241327962",
+    "project_id": "sheytankosh-8134d",
+    "storage_bucket": "sheytankosh-8134d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031241327962:android:9760c4161574c573f83f63",
+        "android_client_info": {
+          "package_name": "com.farmagamestudio.sheytankosh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031241327962-26mhku4eum5bgsivbq4ul0keajr91ep5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvAJgmcXDnSpsbWsnLYLd1i8ao1NRugTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031241327962-26mhku4eum5bgsivbq4ul0keajr91ep5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

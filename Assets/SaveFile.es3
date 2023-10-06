@@ -1,0 +1,175 @@
+{
+	"Resource" : {
+		"__type" : "ResourceBucketItem,Assembly-CSharp",
+		"value" : {
+			"Level" : 1,
+			"Xp" : 0,
+			"Gold" : 2000,
+			"Gem" : 250,
+			"Energy" : 35,
+			"MaxEnergy" : 20,
+			"Id" : "8",
+			"OwnerId" : "6006f73ea6dda56c885ea712"
+		}
+	},
+	"RunePowerUpTalent" : {
+		"__type" : "TalentBucketItem,Assembly-CSharp",
+		"value" : {
+			"CurrentLevel" : 0,
+			"TalentType" : 11,
+			"CurrentValue" : 0,
+			"LastValue" : 0,
+			"TalentKey" : "RunePowerUpTalent",
+			"MaxLevel" : 10,
+			"Id" : null,
+			"OwnerId" : null
+		}
+	},
+	"HeroPowerUpTalent" : {
+		"__type" : "TalentBucketItem,Assembly-CSharp",
+		"value" : {
+			"CurrentLevel" : 0,
+			"TalentType" : 10,
+			"CurrentValue" : 0,
+			"LastValue" : 0,
+			"TalentKey" : "HeroPowerUpTalent",
+			"MaxLevel" : 10,
+			"Id" : null,
+			"OwnerId" : null
+		}
+	},
+	"EnhancedEquipmentTalent" : {
+		"__type" : "TalentBucketItem,Assembly-CSharp",
+		"value" : {
+			"CurrentLevel" : 0,
+			"TalentType" : 8,
+			"CurrentValue" : 0,
+			"LastValue" : 0,
+			"TalentKey" : "EnhancedEquipmentTalent",
+			"MaxLevel" : 10,
+			"Id" : null,
+			"OwnerId" : null
+		}
+	},
+	"TimeRewardTalent" : {
+		"__type" : "TalentBucketItem,Assembly-CSharp",
+		"value" : {
+			"CurrentLevel" : 0,
+			"TalentType" : 9,
+			"CurrentValue" : 0,
+			"LastValue" : 0,
+			"TalentKey" : "TimeRewardTalent",
+			"MaxLevel" : 10,
+			"Id" : null,
+			"OwnerId" : null
+		}
+	},
+	"GloryTalent" : {
+		"__type" : "TalentBucketItem,Assembly-CSharp",
+		"value" : {
+			"CurrentLevel" : 0,
+			"TalentType" : 7,
+			"CurrentValue" : 0,
+			"LastValue" : 0,
+			"TalentKey" : "GloryTalent",
+			"MaxLevel" : 1,
+			"Id" : null,
+			"OwnerId" : null
+		}
+	},
+	"InspireTalent" : {
+		"__type" : "TalentBucketItem,Assembly-CSharp",
+		"value" : {
+			"CurrentLevel" : 0,
+			"TalentType" : 6,
+			"CurrentValue" : 0,
+			"LastValue" : 0,
+			"TalentKey" : "InspireTalent",
+			"MaxLevel" : 20,
+			"Id" : null,
+			"OwnerId" : null
+		}
+	},
+	"AgileTalent" : {
+		"__type" : "TalentBucketItem,Assembly-CSharp",
+		"value" : {
+			"CurrentLevel" : 0,
+			"TalentType" : 5,
+			"CurrentValue" : 0,
+			"LastValue" : 0,
+			"TalentKey" : "AgileTalent",
+			"MaxLevel" : 8,
+			"Id" : null,
+			"OwnerId" : null
+		}
+	},
+	"IronBulwarkTalent" : {
+		"__type" : "TalentBucketItem,Assembly-CSharp",
+		"value" : {
+			"CurrentLevel" : 0,
+			"TalentType" : 4,
+			"CurrentValue" : 0,
+			"LastValue" : 0,
+			"TalentKey" : "IronBulwarkTalent",
+			"MaxLevel" : 20,
+			"Id" : null,
+			"OwnerId" : null
+		}
+	},
+	"BlockTalent" : {
+		"__type" : "TalentBucketItem,Assembly-CSharp",
+		"value" : {
+			"CurrentLevel" : 0,
+			"TalentType" : 3,
+			"CurrentValue" : 0,
+			"LastValue" : 0,
+			"TalentKey" : "BlockTalent",
+			"MaxLevel" : 20,
+			"Id" : null,
+			"OwnerId" : null
+		}
+	},
+	"RecoverTalent" : {
+		"__type" : "TalentBucketItem,Assembly-CSharp",
+		"value" : {
+			"CurrentLevel" : 0,
+			"TalentType" : 2,
+			"CurrentValue" : 0,
+			"LastValue" : 0,
+			"TalentKey" : "RecoverTalent",
+			"MaxLevel" : 20,
+			"Id" : null,
+			"OwnerId" : null
+		}
+	},
+	"PowerTalent" : {
+		"__type" : "TalentBucketItem,Assembly-CSharp",
+		"value" : {
+			"CurrentLevel" : 0,
+			"TalentType" : 1,
+			"CurrentValue" : 0,
+			"LastValue" : 0,
+			"TalentKey" : "PowerTalent",
+			"MaxLevel" : 20,
+			"Id" : null,
+			"OwnerId" : null
+		}
+	},
+	"StrengthTalent" : {
+		"__type" : "TalentBucketItem,Assembly-CSharp",
+		"value" : {
+			"CurrentLevel" : 0,
+			"TalentType" : 0,
+			"CurrentValue" : 0,
+			"LastValue" : 0,
+			"TalentKey" : "StrengthTalent",
+			"MaxLevel" : 20,
+			"Id" : null,
+			"OwnerId" : null
+		}
+	},
+	"userToken" : {
+		"__type" : "System.String",
+		"value" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkIjoiMmNkMDg0MWI3ZThkOWJjOWU3ODU5ODgzMGI5MGI5M2I5OTk4NWQyNiIsImciOmZhbHNlLCJ0eXBlIjoidXNlciIsInVzZXIiOiI2MDA2ZjczZWE2ZGRhNTZjODg1ZWE3MTIifQ.VJiRgxdYU7R8YaaPxOfYQK-VXUv_K16UPcsVfVCrdZ8"
+	}
+}

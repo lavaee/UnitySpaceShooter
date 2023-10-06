@@ -1,0 +1,11 @@
+<linker>
+    <assembly fullname="GCEncryption">
+        <type fullname="gamingCloud.*" preserve="all"/>
+    </assembly>
+    <assembly fullname="GCMultiplayer">
+        <type fullname="gamingCloud.*" preserve="all"/>
+    </assembly>
+    <assembly fullname="TcpStreamer">
+        <type fullname="gamingCloud.*" preserve="all"/>
+    </assembly>
+</linker>

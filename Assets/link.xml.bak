@@ -1,0 +1,5 @@
+<linker>
+    <assembly fullname="GamingCloud">
+        <type fullname="gamingCloud.*" preserve="all"/>
+    </assembly>
+</linker>
